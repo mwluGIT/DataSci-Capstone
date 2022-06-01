@@ -1,3 +1,8 @@
 # DataSci-Capstone
-This repository culminates a PowerPoint presentation, applying many of the skills learned in the IBM Data Science Professional Certificate offered through Coursera. The process begins with the collection of data using web scraping and database querying. Data is cleaned and visualizations are generated in Python using the "matplotlib" and "seaborn" packages. Visualizations are used to help find trends and reinforce the points made. Multiple Machine Learning models are trained and tested against each other to reveal which models operated most effectively.
-Leading up to the actual presentation are multiple Jupyter notebooks, showing the code that gathered, cleaned, and analyzed the data.
+This repository culminates in a slideshow presentation, applying many of the skills learned in the IBM Data Science Professional Certificate offered through Coursera. 
+
+The slideshow is very wordy, as per the instructions for the assignment.
+
+The slideshow is very thorough and recaps the entire process: from data collection (web scraping and DB querying), to wrangling/cleaning, generatiing visuals using Seaborn and Matplotlib, to training and testing machine learning models, to drawing some data-driven recommendations for stakeholders. 
+
+Leading up to the actual presentation are multiple Jupyter notebooks, documenting the process.
